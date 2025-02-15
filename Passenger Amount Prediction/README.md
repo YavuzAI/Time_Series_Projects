@@ -66,7 +66,7 @@ The data can be **slow to change**, which sometimes leads to overfitting. Noneth
 - **Prophet**: Plotted the forecast against actual data, visualizing trend and seasonality.  
 - **LSTM**: Generated predictions on the test set and plotted them alongside the original time series to compare performance.
 
-![LSTM Predictions](screenshotsplot_lstm.png)
+![LSTM Predictions](screenshots/plot_lstm.png)
 
 From the chart, you can see how well the model fits the underlying passenger trend. Though the dataset is small and prone to overfitting, it still provides insight into **sequential model training** and **evaluation**.
 
